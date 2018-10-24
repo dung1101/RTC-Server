@@ -1,0 +1,16 @@
+{
+  "socketURL": "/",
+  "dirPath": "",
+  "homePage": "/demos/index.html",
+  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+  "port": "9443",
+  "enableLogs": "true",
+  "autoRebootServerOnFailure": "true",
+  "isUseHTTPs": "true",
+  "sslKey": "/etc/ssl/private/nginx-selfsigned.key",
+  "sslCert": "/etc/ssl/certs/nginx-selfsigned.crt",
+  "sslCabundle": "",
+  "adminUserName": "username",
+  "adminPassword": "password"
+}
